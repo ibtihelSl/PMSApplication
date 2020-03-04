@@ -1,0 +1,24 @@
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Domain\bin\Debug\Domain.dll.config
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Domain\bin\Debug\Domain.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Domain\bin\Debug\Domain.pdb
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Domain\bin\Debug\EntityFramework.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Domain\bin\Debug\MySql.Data.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Domain\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Domain\bin\Debug\EntityFramework.xml
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Domain\obj\Debug\Domain.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Domain\obj\Debug\Domain.pdb
+E:\PMS\PMSApplication\Domain\bin\Debug\Domain.dll.config
+E:\PMS\PMSApplication\Domain\bin\Debug\Domain.dll
+E:\PMS\PMSApplication\Domain\bin\Debug\Domain.pdb
+E:\PMS\PMSApplication\Domain\bin\Debug\EntityFramework.dll
+E:\PMS\PMSApplication\Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\PMS\PMSApplication\Domain\bin\Debug\MySql.Data.dll
+E:\PMS\PMSApplication\Domain\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\PMS\PMSApplication\Domain\bin\Debug\EntityFramework.xml
+E:\PMS\PMSApplication\Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\PMS\PMSApplication\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\PMS\PMSApplication\Domain\obj\Debug\Domain.dll
+E:\PMS\PMSApplication\Domain\obj\Debug\Domain.pdb

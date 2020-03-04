@@ -1,0 +1,29 @@
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Services\bin\Debug\Services.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Services\bin\Debug\Services.pdb
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Services\bin\Debug\Data.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Services\bin\Debug\ServicePattern.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Services\bin\Debug\EntityFramework.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Services\bin\Debug\Data.pdb
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Services\bin\Debug\ServicePattern.pdb
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Services\bin\Debug\EntityFramework.xml
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Services\obj\Debug\Services.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Services\obj\Debug\Services.pdb
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Services\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Services\bin\Debug\MySql.Data.dll
+E:\PMS\PMSApplication\Services\bin\Debug\Services.dll
+E:\PMS\PMSApplication\Services\bin\Debug\Services.pdb
+E:\PMS\PMSApplication\Services\bin\Debug\Data.dll
+E:\PMS\PMSApplication\Services\bin\Debug\ServicePattern.dll
+E:\PMS\PMSApplication\Services\bin\Debug\EntityFramework.dll
+E:\PMS\PMSApplication\Services\bin\Debug\Data.pdb
+E:\PMS\PMSApplication\Services\bin\Debug\ServicePattern.pdb
+E:\PMS\PMSApplication\Services\bin\Debug\EntityFramework.xml
+E:\PMS\PMSApplication\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\PMS\PMSApplication\Services\obj\Debug\Services.dll
+E:\PMS\PMSApplication\Services\obj\Debug\Services.pdb
+E:\PMS\PMSApplication\Services\bin\Debug\Services.dll.config
+E:\PMS\PMSApplication\Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\PMS\PMSApplication\Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\PMS\PMSApplication\Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\PMS\PMSApplication\Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml

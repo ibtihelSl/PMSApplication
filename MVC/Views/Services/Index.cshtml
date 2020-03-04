@@ -1,0 +1,51 @@
+﻿@model IEnumerable<MVC.Models.ServicesModels>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutBack.cshtml";
+}
+@section scripts{
+    <h2>Index</h2>
+
+<br/>
+
+    <div id="page-wrapper">
+        <div class="main-page">
+            <div class="tables">
+                <div class="panel-body widget-shadow">
+                    <h4>Liste Services:</h4>
+                    <table class="table">
+                        <tr>
+                                                      <th>
+                                @Html.DisplayNameFor(model => model.TypeService)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.NbrEmployee)
+                            </th>
+                            <th></th>
+                        </tr>
+
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.TypeService)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.NbrEmployee)
+                                </td>
+                                <td>
+                                    @Html.ActionLink("Modifier", "Edit", new {  id=item.idService }) |
+                                    @*@Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |*@
+                                    @Html.ActionLink("Supprimer", "Delete", new { id=item.idService })
+                                </td>
+                            </tr>
+                        }
+
+                    </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+}

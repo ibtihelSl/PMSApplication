@@ -1,0 +1,43 @@
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Data\bin\Debug\Data.dll.config
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Data\bin\Debug\Data.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Data\bin\Debug\Data.pdb
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Data\bin\Debug\EntityFramework.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Data\bin\Debug\MySql.Data.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Data\bin\Debug\EntityFramework.xml
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Data\obj\Debug\Data.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Data\obj\Debug\Data.pdb
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Data\obj\Debug\Data.Migrations.v1.resources
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+E:\PMS\PMSApplication\Data\bin\Debug\Data.dll.config
+E:\PMS\PMSApplication\Data\bin\Debug\Data.dll
+E:\PMS\PMSApplication\Data\bin\Debug\Data.pdb
+E:\PMS\PMSApplication\Data\bin\Debug\EntityFramework.dll
+E:\PMS\PMSApplication\Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\PMS\PMSApplication\Data\bin\Debug\MySql.Data.dll
+E:\PMS\PMSApplication\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\PMS\PMSApplication\Data\bin\Debug\EntityFramework.xml
+E:\PMS\PMSApplication\Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\PMS\PMSApplication\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+E:\PMS\PMSApplication\Data\obj\Debug\Data.dll
+E:\PMS\PMSApplication\Data\obj\Debug\Data.pdb
+E:\PMS\PMSApplication\Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\PMS\PMSApplication\Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\PMS\PMSApplication\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\PMS\PMSApplication\Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\PMS\PMSApplication\Data\bin\Debug\Microsoft.Owin.dll
+E:\PMS\PMSApplication\Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\PMS\PMSApplication\Data\bin\Debug\Microsoft.Owin.Security.dll
+E:\PMS\PMSApplication\Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\PMS\PMSApplication\Data\bin\Debug\Newtonsoft.Json.dll
+E:\PMS\PMSApplication\Data\bin\Debug\Owin.dll
+E:\PMS\PMSApplication\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\PMS\PMSApplication\Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\PMS\PMSApplication\Data\bin\Debug\Microsoft.Owin.xml
+E:\PMS\PMSApplication\Data\bin\Debug\Microsoft.Owin.Security.xml
+E:\PMS\PMSApplication\Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\PMS\PMSApplication\Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\PMS\PMSApplication\Data\bin\Debug\Newtonsoft.Json.xml

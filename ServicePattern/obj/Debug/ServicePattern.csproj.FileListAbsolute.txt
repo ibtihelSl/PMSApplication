@@ -1,0 +1,25 @@
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\ServicePattern\bin\Debug\ServicePattern.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\ServicePattern\bin\Debug\ServicePattern.pdb
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\ServicePattern\bin\Debug\Data.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\ServicePattern\bin\Debug\EntityFramework.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\ServicePattern\bin\Debug\Data.pdb
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\ServicePattern\bin\Debug\EntityFramework.xml
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\ServicePattern\obj\Debug\ServicePattern.csprojResolveAssemblyReference.cache
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\ServicePattern\obj\Debug\ServicePattern.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\ServicePattern\obj\Debug\ServicePattern.pdb
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\ServicePattern\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\ServicePattern\bin\Debug\MySql.Data.dll
+E:\PMS\PMSApplication\ServicePattern\bin\Debug\ServicePattern.dll
+E:\PMS\PMSApplication\ServicePattern\bin\Debug\ServicePattern.pdb
+E:\PMS\PMSApplication\ServicePattern\bin\Debug\Data.dll
+E:\PMS\PMSApplication\ServicePattern\bin\Debug\EntityFramework.dll
+E:\PMS\PMSApplication\ServicePattern\bin\Debug\Data.pdb
+E:\PMS\PMSApplication\ServicePattern\bin\Debug\EntityFramework.xml
+E:\PMS\PMSApplication\ServicePattern\obj\Debug\ServicePattern.csprojResolveAssemblyReference.cache
+E:\PMS\PMSApplication\ServicePattern\obj\Debug\ServicePattern.dll
+E:\PMS\PMSApplication\ServicePattern\obj\Debug\ServicePattern.pdb
+E:\PMS\PMSApplication\ServicePattern\bin\Debug\ServicePattern.dll.config
+E:\PMS\PMSApplication\ServicePattern\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\PMS\PMSApplication\ServicePattern\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\PMS\PMSApplication\ServicePattern\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\PMS\PMSApplication\ServicePattern\bin\Debug\Microsoft.AspNet.Identity.Core.xml

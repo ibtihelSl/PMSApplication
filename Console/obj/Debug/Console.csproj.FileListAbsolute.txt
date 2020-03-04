@@ -1,0 +1,24 @@
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Console\bin\Debug\Console.exe.config
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Console\bin\Debug\Console.exe
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Console\bin\Debug\Console.pdb
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Console\bin\Debug\EntityFramework.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Console\bin\Debug\MySql.Data.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Console\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Console\bin\Debug\EntityFramework.xml
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Console\obj\Debug\Console.exe
+C:\Users\chaie\Documents\Visual Studio 2015\Projects\PMSApplication\Console\obj\Debug\Console.pdb
+E:\PMS\PMSApplication\Console\bin\Debug\Console.exe.config
+E:\PMS\PMSApplication\Console\bin\Debug\Console.exe
+E:\PMS\PMSApplication\Console\bin\Debug\Console.pdb
+E:\PMS\PMSApplication\Console\bin\Debug\EntityFramework.dll
+E:\PMS\PMSApplication\Console\bin\Debug\EntityFramework.SqlServer.dll
+E:\PMS\PMSApplication\Console\bin\Debug\MySql.Data.dll
+E:\PMS\PMSApplication\Console\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\PMS\PMSApplication\Console\bin\Debug\EntityFramework.xml
+E:\PMS\PMSApplication\Console\bin\Debug\EntityFramework.SqlServer.xml
+E:\PMS\PMSApplication\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+E:\PMS\PMSApplication\Console\obj\Debug\Console.exe
+E:\PMS\PMSApplication\Console\obj\Debug\Console.pdb
